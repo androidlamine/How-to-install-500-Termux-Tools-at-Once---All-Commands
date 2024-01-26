@@ -1,2 +1,21 @@
 # How-to-install-500-Termux-Tools-at-Once---All-Commands
-قم بتثبيت أكثر من 500 أداة من أدوات Termux كما تعلمون جميعًا، يرتبط موقع الويب الخاص بي بالقرصنة الأخلاقية. وأنا أكتب عن حيل ونصائح القرصنة على موقع الويب الخاص بي.
+
+
+apt update && upgrade
+
+pkg install git
+
+pkg install python2
+
+git clone https://github.com/Rajkumrdusad/Tool-X.git
+
+cd Tool-X
+
+chmod +x *
+
+./install
+
+
+Warning:
+
+I'm not responsible for any misuse or damage by this tool. My All content is for educational purposes, So use this tool as your own risk!
